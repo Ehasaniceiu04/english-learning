@@ -17,3 +17,8 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
 <b>Verb</b>- (1). make or cause to make a rapid succession of short, sharp knocking sounds, typically as a result of shaking and striking repeatedly against a hard surface or object.<br/>
  2. cause (someone) to feel nervous, worried, or irritated.<br/>
  <b>Synonym</b> : unnerve, disconcert, disturb, fluster, shake, perturb, discompose, discomfit, ruffle, throw, faze
+ 
+ ## bumpy
+ <b> Adj </b>- (of a surface) uneven, with many patches raised above the rest.
+ <b>Synonyms </b> uneven, rough, rutted, rutty, pitted, potholed, holey, lumpy, rocky
+
