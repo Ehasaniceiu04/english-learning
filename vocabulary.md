@@ -22,3 +22,5 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
  <b> Adj </b>- (of a surface) uneven, with many patches raised above the rest.
  <b>Synonyms </b> uneven, rough, rutted, rutty, pitted, potholed, holey, lumpy, rocky
 
+## choked
+<b>verb</b> - (of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.
