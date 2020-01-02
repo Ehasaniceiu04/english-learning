@@ -8,4 +8,12 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
 
 ## swallowing
 <b>Verb</b>- cause or allow (something, especially food or drink) to pass down the throat.<br/>
-<b>Synonym</b> : eat, gulp down, consume, devour, put away, ingest, assimilate, drink, guzzle,quaff, imbibe, sup, slug, polish off, swig, chug, swill, down, scoff
+<b>Synonym</b> : eat, gulp down, consume, devour, put away, ingest, assimilate, drink, guzzle,quaff, imbibe, sup, slug, polish off, swig, chug, swill, down, scoff.
+
+## stretcher
+   (1) a framework of two poles with a long piece of canvas slung between them, used for carrying sick, injured, or dead people.<br/>
+   
+## rattled
+<b>Verb</b>- (1). make or cause to make a rapid succession of short, sharp knocking sounds, typically as a result of shaking and striking repeatedly against a hard surface or object.<br/>
+ 2. cause (someone) to feel nervous, worried, or irritated.<br/>
+ <b>Synonym</b> : unnerve, disconcert, disturb, fluster, shake, perturb, discompose, discomfit, ruffle, throw, faze
