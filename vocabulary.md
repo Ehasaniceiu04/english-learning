@@ -4,4 +4,8 @@
 <b>verb</b>
 (especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.<br/>
 <b>synonyms</b>
-expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill out, tumefy
+expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill out, tumefy.
+
+## swallowing
+<b>Verb</b>- cause or allow (something, especially food or drink) to pass down the throat.<br/>
+<b>Synonym</b> : eat, gulp down, consume, devour, put away, ingest, assimilate, drink, guzzle,quaff, imbibe, sup, slug, polish off, swig, chug, swill, down, scoff
