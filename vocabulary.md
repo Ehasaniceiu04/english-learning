@@ -32,3 +32,8 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
  ## sniff
  <b>Verb</b>-draw in air audibly through the nose to detect a smell, to stop it from running, or to express contempt.<br/>
  <b>Synonyms</b> inhale, breathe, insnuffle
+ 
+ ## Outward
+ <b>Ajective</b>- of, on, or from the outside.<br/>
+               going out or away from a place.<br/>
+ <b>Adverb</b>- away from the center or a particular point; toward the outside.
