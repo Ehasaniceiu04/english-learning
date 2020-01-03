@@ -42,3 +42,6 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
  <b>Verb</b>-swell or protrude to an unnatural or incongruous extent.<br/>
  <b>Synonyms</b> swell, stick out, puff out, balloon (out),bug out, fill out, belly, distend, tumefy, intumesce, project. protrude, stand out.
  
+ ## eyelid
+ <b>Noun</b>-each of the upper and lower folds of skin that cover the eye when closed.
+ 
