@@ -37,3 +37,8 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
  <b>Ajective</b>- of, on, or from the outside.<br/>
                going out or away from a place.<br/>
  <b>Adverb</b>- away from the center or a particular point; toward the outside.
+ 
+ ## bulged
+ <b>Verb</b>-swell or protrude to an unnatural or incongruous extent.<br/>
+ <b>Synonyms</b> swell, stick out, puff out, balloon (out),bug out, fill out, belly, distend, tumefy, intumesce, project. protrude, stand out.
+ 
