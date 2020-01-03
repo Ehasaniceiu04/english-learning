@@ -28,3 +28,7 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
 <b>Adverb</b>- in a merciful manner<br/>
               to one's great relief; fortunately.
  <b>Synonyms</b>-luckily, fortunately, happily, thank goodness, thank God, thank heavens
+ 
+ ## sniff
+ <b>Verb</b>-draw in air audibly through the nose to detect a smell, to stop it from running, or to express contempt.<br/>
+ <b>Synonyms</b> inhale, breathe, insnuffle
