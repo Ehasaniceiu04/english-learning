@@ -24,3 +24,7 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
 
 ## choked
 <b>verb</b> - (of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.
+## Mercifully
+<b>Adverb</b>- in a merciful manner<br/>
+              to one's great relief; fortunately.
+ <b>Synonyms</b>-luckily, fortunately, happily, thank goodness, thank God, thank heavens
