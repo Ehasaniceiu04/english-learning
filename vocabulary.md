@@ -45,3 +45,7 @@ expand, bulge, distend, inflate, dilate, bloat, puff up, balloon, fatten, fill o
  ## eyelid
  <b>Noun</b>-each of the upper and lower folds of skin that cover the eye when closed.
  
+ ## seeped
+ <b>verb<b/> (of a liquid) flow or leak slowly through porous material or small holes.<br/>
+ <b>Synonyms</b>- ooze, trickle, exude,drip, dribble, flow, issue, escape, leak, drain, bleed, filter, percolate, soak
+ 
